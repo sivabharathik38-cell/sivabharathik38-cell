@@ -48,7 +48,7 @@ web development, databases, and problem solving**.
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css&theme=dark"/>
 
 <br><br>
 
